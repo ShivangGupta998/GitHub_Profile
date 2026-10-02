@@ -27,6 +27,7 @@
 <p align="center">
   <a href="https://github.com/ShivangGupta998"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="mailto:shivanggupta998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://shivanggupta998.github.io/Shivang_Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://komarev.com/ghpvc/?username=ShivangGupta998&label=PROFILE%20VIEWS&color=111111&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=ShivangGupta998&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" alt="Views" /></a>
@@ -235,12 +236,13 @@
 ### `shivang@dev:~$ cat ./certifications.txt`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/AWS-DevOps%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Engineer" /></a>
-  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/ITIL--4-Foundation%20Certified-0052CC?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL-4" /></a>
-  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-007ACC?style=for-the-badge&logo=testing&logoColor=white" alt="ISTQB" /></a>
-  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/IBM-Docker%20Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Docker Essentials" /></a>
-  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/IBM-Kubernetes%20Applications-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/ISO%2026262-Functional%20Safety-107C41?style=for-the-badge&logo=shield&logoColor=white" alt="ISO 26262" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/VERIFIED%20ON-CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Verified on Credly" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/AWS-DevOps%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Engineer" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/ITIL--4-Foundation%20Certified-0052CC?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL-4" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-007ACC?style=for-the-badge&logo=testing&logoColor=white" alt="ISTQB" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/IBM-Docker%20Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Docker Essentials" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/IBM-Kubernetes%20Applications-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/ISO%2026262-Functional%20Safety-107C41?style=for-the-badge&logo=shield&logoColor=white" alt="ISO 26262" /></a>
 </p>
 
 ---
@@ -255,6 +257,7 @@
 <p>
   <a href="https://github.com/ShivangGupta998"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/shivang-gupta.4993dce2"><img src="https://img.shields.io/badge/CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="mailto:shivanggupta998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://shivanggupta998.github.io/Shivang_Portfolio/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-161B22?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
