@@ -26,9 +26,9 @@
 <!-- Quick Interactive Action Links -->
 <p align="center">
   <a href="https://github.com/ShivangGupta998"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/shivang-gupta-dev"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shivanggupta998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ShivangGupta998/Shivang_Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shivanggupta998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://shivanggupta998.github.io/Shivang_Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://komarev.com/ghpvc/?username=ShivangGupta998&label=PROFILE%20VIEWS&color=111111&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=ShivangGupta998&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" alt="Views" /></a>
 </p>
 
@@ -83,57 +83,53 @@
 <div align="center">
   <p align="left"><code>shivang@dev:~$ ./skills --icons</code></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,html,css,tailwind,redux,postgres,mongodb,prisma,supabase,docker,aws,git,github,vscode,postman,linux,bash&perline=12&theme=dark" alt="Technical Skills Icons Grid" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github,python,bash,linux,prometheus,grafana,postgres,mongodb,vscode,postman,html,css,js,ts,react&perline=12&theme=dark" alt="Technical Skills Icons Grid" />
   </a>
 </div>
 
 ---
 
-<!-- ==================== SECTION 4: FEATURED BUILDS ==================== -->
-### `shivang@dev:~$ ls -la ./projects`
+<!-- ==================== SECTION 4: PROFESSIONAL EXPERIENCE & EDUCATION ==================== -->
+### `shivang@dev:~$ cat ./experience.md`
 
 <table border="0" width="100%" cellspacing="0" cellpadding="8">
   <tr>
     <td width="50%" valign="top">
-      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
-        <h4>🌐 <a href="https://github.com/ShivangGupta998/Shivang_Portfolio" style="color: #58A6FF;">Shivang_Portfolio</a></h4>
-        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">Modern responsive personal developer portfolio showcasing full-stack projects, responsive interactive interfaces, smooth animations, and clean component architecture.</p>
-        <p>
-          <code>React</code> <code>JavaScript</code> <code>CSS3</code> <code>UI/UX</code>
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22; height: 100%;">
+        <h4>💼 <strong style="color: #38BDF8;">DATAEKO.AI Pvt Ltd</strong> &nbsp;<code>Current</code></h4>
+        <p style="color: #58A6FF; font-size: 13px; font-weight: 600; margin-bottom: 6px;">DevOps Engineer &bull; Hyderabad, Telangana</p>
+        <p style="color: #8B949E; font-size: 12.5px; line-height: 1.5;">
+          Contributing to Data, Analytics, and AI-driven platforms. Engineering CI/CD automation, cloud infrastructure, and platform delivery collaborating with JFrog, IBM watsonx, and Mendix.
         </p>
-        <p>🔗 <a href="https://github.com/ShivangGupta998/Shivang_Portfolio" style="color: #58A6FF; font-weight: bold;">Explore Repository →</a></p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
-        <h4>⚡ <a href="https://github.com/ShivangGupta998/DATAEKO_IT_SERVICE_DESK" style="color: #58A6FF;">DATAEKO_IT_SERVICE_DESK</a></h4>
-        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">Comprehensive enterprise IT service desk platform for support ticket routing, real-time status management, automated SLA monitoring, and developer workflow tracking.</p>
-        <p>
-          <code>TypeScript</code> <code>React</code> <code>REST API</code> <code>Tailwind</code>
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22; height: 100%;">
+        <h4>⚡ <strong style="color: #A855F7;">StarAgile Technologies</strong></h4>
+        <p style="color: #C084FC; font-size: 13px; font-weight: 600; margin-bottom: 6px;">DevOps Intern &bull; Bengaluru, Karnataka</p>
+        <p style="color: #8B949E; font-size: 12.5px; line-height: 1.5;">
+          Built and optimized CI/CD pipelines with Jenkins, Docker, and Kubernetes. Automated AWS infrastructure with Terraform and Ansible, cutting manual overhead by <strong>80%</strong>.
         </p>
-        <p>🔗 <a href="https://github.com/ShivangGupta998/DATAEKO_IT_SERVICE_DESK" style="color: #58A6FF; font-weight: bold;">Explore Repository →</a></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
-        <h4>🚀 <a href="https://github.com/ShivangGupta998/CICD_PIPELINE" style="color: #58A6FF;">CICD_PIPELINE</a></h4>
-        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">Continuous integration and continuous deployment engine leveraging GitHub Actions, automated Docker builds, test execution pipelines, and automated cloud delivery.</p>
-        <p>
-          <code>GitHub Actions</code> <code>Docker</code> <code>CI/CD</code> <code>DevOps</code>
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22; height: 100%;">
+        <h4>🚗 <strong style="color: #FBBF24;">Expleo Technologies</strong></h4>
+        <p style="color: #FCD34D; font-size: 13px; font-weight: 600; margin-bottom: 6px;">Associate Software Engineer &bull; BMW / Mini Cooper</p>
+        <p style="color: #8B949E; font-size: 12.5px; line-height: 1.5;">
+          Infotainment systems validation for BMW, Mini Cooper, and Rolls-Royce. Engineered Python CAN automation tool achieving <strong>88% time reduction</strong> (8-hour workload in 1 hour).
         </p>
-        <p>🔗 <a href="https://github.com/ShivangGupta998/CICD_PIPELINE" style="color: #58A6FF; font-weight: bold;">Explore Repository →</a></p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
-        <h4>🏥 <a href="https://github.com/ShivangGupta998/MEDICAL_APPLICATION" style="color: #58A6FF;">MEDICAL_APPLICATION</a></h4>
-        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">Full-stack healthcare and clinic management web solution enabling appointment bookings, patient record administration, schedule coordination, and responsive physician dashboards.</p>
-        <p>
-          <code>Full-Stack</code> <code>JavaScript</code> <code>Healthcare</code> <code>Web App</code>
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22; height: 100%;">
+        <h4>🎓 <strong style="color: #34D399;">Jamia Hamdard University</strong></h4>
+        <p style="color: #6EE7B7; font-size: 13px; font-weight: 600; margin-bottom: 6px;">B.Tech in Electronics &amp; Communication &bull; New Delhi</p>
+        <p style="color: #8B949E; font-size: 12.5px; line-height: 1.5;">
+          Graduated with strong foundation in computing, communications, and electronics. Executive Board Member of Computer Society of India leading technical initiatives.
         </p>
-        <p>🔗 <a href="https://github.com/ShivangGupta998/MEDICAL_APPLICATION" style="color: #58A6FF; font-weight: bold;">Explore Repository →</a></p>
       </div>
     </td>
   </tr>
@@ -141,7 +137,59 @@
 
 ---
 
-<!-- ==================== SECTION 5: GITHUB ANALYTICS & ACTIVITY WAVE ==================== -->
+<!-- ==================== SECTION 5: FEATURED BUILDS ==================== -->
+### `shivang@dev:~$ ls -la ./projects`
+
+<table border="0" width="100%" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
+        <h4>🌐 <a href="https://shivanggupta998.github.io/Shivang_Portfolio/" style="color: #58A6FF;">Live Developer Portfolio</a> &nbsp;<code>LIVE</code></h4>
+        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">Official live interactive portfolio featuring technical case studies, responsive interfaces, DevOps highlights, and resume showcase.</p>
+        <p>
+          <code>Live Web</code> <code>JavaScript</code> <code>UI/UX</code> <code>GitHub Pages</code>
+        </p>
+        <p>🔗 <a href="https://shivanggupta998.github.io/Shivang_Portfolio/" style="color: #58A6FF; font-weight: bold;">Launch Live Portfolio →</a></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
+        <h4>🚀 <a href="https://github.com/ShivangGupta998/CICD_PIPELINE" style="color: #58A6FF;">CICD_PIPELINE</a></h4>
+        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">End-to-end continuous deployment engine using Jenkins, Docker, Kubernetes, and GitHub Actions for automated testing and cloud delivery.</p>
+        <p>
+          <code>Jenkins</code> <code>Docker</code> <code>Kubernetes</code> <code>CI/CD</code>
+        </p>
+        <p>🔗 <a href="https://github.com/ShivangGupta998/CICD_PIPELINE" style="color: #58A6FF; font-weight: bold;">Explore Repository →</a></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
+        <h4>⚡ <a href="https://github.com/ShivangGupta998/DATAEKO_IT_SERVICE_DESK" style="color: #58A6FF;">DATAEKO_IT_SERVICE_DESK</a></h4>
+        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">Enterprise IT service desk platform for support ticket routing, workflow automation, and real-time SLA metrics tracking.</p>
+        <p>
+          <code>TypeScript</code> <code>React</code> <code>Platform</code> <code>REST API</code>
+        </p>
+        <p>🔗 <a href="https://github.com/ShivangGupta998/DATAEKO_IT_SERVICE_DESK" style="color: #58A6FF; font-weight: bold;">Explore Repository →</a></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363D; border-radius: 8px; padding: 16px; background: #161B22;">
+        <h4>🏥 <a href="https://github.com/ShivangGupta998/health-care" style="color: #58A6FF;">Healthcare &amp; Cloud Infra</a></h4>
+        <p style="color: #8B949E; font-size: 13px; line-height: 1.5;">AWS-based infrastructure designed with Terraform (IaC) and containerized with Docker and Kubernetes for high availability.</p>
+        <p>
+          <code>AWS</code> <code>Terraform</code> <code>Docker</code> <code>Microservices</code>
+        </p>
+        <p>🔗 <a href="https://github.com/ShivangGupta998/health-care" style="color: #58A6FF; font-weight: bold;">Explore Repository →</a></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== SECTION 6: GITHUB ANALYTICS & ACTIVITY WAVE ==================== -->
 ### `shivang@dev:~$ ./analytics --overview`
 
 <div align="center">
@@ -183,7 +231,21 @@
 
 ---
 
-<!-- ==================== SECTION 6: CONNECT & FOOTER ==================== -->
+<!-- ==================== SECTION 7: CERTIFICATIONS ==================== -->
+### `shivang@dev:~$ cat ./certifications.txt`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/AWS-DevOps%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Engineer" /></a>
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/ITIL--4-Foundation%20Certified-0052CC?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL-4" /></a>
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-007ACC?style=for-the-badge&logo=testing&logoColor=white" alt="ISTQB" /></a>
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/IBM-Docker%20Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Docker Essentials" /></a>
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/IBM-Kubernetes%20Applications-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/ISO%2026262-Functional%20Safety-107C41?style=for-the-badge&logo=shield&logoColor=white" alt="ISO 26262" /></a>
+</p>
+
+---
+
+<!-- ==================== SECTION 8: CONNECT & FOOTER ==================== -->
 <div align="center">
 
 ### `shivang@dev:~$ ./connect`
@@ -192,13 +254,13 @@
 
 <p>
   <a href="https://github.com/ShivangGupta998"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/shivang-gupta-dev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shivang-gupta-13feb1996"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shivanggupta998@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ShivangGupta998/Shivang_Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://shivanggupta998.github.io/Shivang_Portfolio/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-161B22?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p style="color: #8B949E; font-size: 13.5px; font-style: italic; font-family: 'JetBrains Mono', monospace; margin-top: 14px;">
-  "Building, learning, and exploring the possibilities of technology — one commit at a time."
+  "Automating infrastructure, streamlining deployment pipelines, and scaling systems — one commit at a time."
 </p>
 
 </div>

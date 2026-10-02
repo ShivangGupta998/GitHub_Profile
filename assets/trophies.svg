@@ -12,31 +12,31 @@
 
   <!-- Container Row of 6 Trophies -->
   <g transform="translate(10, 10)">
-    <!-- Trophy 1: Full-Stack Architect -->
+    <!-- Trophy 1: AWS DevOps -->
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="146" height="100" class="trophy-card"/>
       <circle cx="73" cy="32" r="18" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
-      <text x="73" y="38" text-anchor="middle" font-size="18">🌐</text>
-      <text x="73" y="68" text-anchor="middle" class="trophy-title">Full-Stack Dev</text>
-      <text x="73" y="84" text-anchor="middle" class="trophy-sub">React • Next • TS</text>
+      <text x="73" y="38" text-anchor="middle" font-size="18">☁️</text>
+      <text x="73" y="68" text-anchor="middle" class="trophy-title">AWS DevOps</text>
+      <text x="73" y="84" text-anchor="middle" class="trophy-sub">EC2 • S3 • VPC • IAM</text>
     </g>
 
-    <!-- Trophy 2: Modern Frontend -->
+    <!-- Trophy 2: Containers & K8s -->
     <g transform="translate(158, 0)">
       <rect x="0" y="0" width="146" height="100" class="trophy-card"/>
       <circle cx="73" cy="32" r="18" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
-      <text x="73" y="38" text-anchor="middle" font-size="18">⚛️</text>
-      <text x="73" y="68" text-anchor="middle" class="trophy-title">Modern Frontend</text>
-      <text x="73" y="84" text-anchor="middle" class="trophy-sub">UI/UX • Tailwind</text>
+      <text x="73" y="38" text-anchor="middle" font-size="18">🐳</text>
+      <text x="73" y="68" text-anchor="middle" class="trophy-title">Docker &amp; K8s</text>
+      <text x="73" y="84" text-anchor="middle" class="trophy-sub">IBM K8s Certified</text>
     </g>
 
-    <!-- Trophy 3: Backend & Systems -->
+    <!-- Trophy 3: IaC & Automation -->
     <g transform="translate(316, 0)">
       <rect x="0" y="0" width="146" height="100" class="trophy-card"/>
       <circle cx="73" cy="32" r="18" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
-      <text x="73" y="38" text-anchor="middle" font-size="18">🚀</text>
-      <text x="73" y="68" text-anchor="middle" class="trophy-title">Backend &amp; APIs</text>
-      <text x="73" y="84" text-anchor="middle" class="trophy-sub">Node • Python • REST</text>
+      <text x="73" y="38" text-anchor="middle" font-size="18">⚙️</text>
+      <text x="73" y="68" text-anchor="middle" class="trophy-title">IaC Specialist</text>
+      <text x="73" y="84" text-anchor="middle" class="trophy-sub">Terraform • Ansible</text>
     </g>
 
     <!-- Trophy 4: CI/CD Pipeline -->
@@ -44,26 +44,26 @@
       <rect x="0" y="0" width="146" height="100" class="trophy-card"/>
       <circle cx="73" cy="32" r="18" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
       <text x="73" y="38" text-anchor="middle" font-size="18">⚡</text>
-      <text x="73" y="68" text-anchor="middle" class="trophy-title">CI/CD Automation</text>
-      <text x="73" y="84" text-anchor="middle" class="trophy-sub">GitHub Actions • CI</text>
+      <text x="73" y="68" text-anchor="middle" class="trophy-title">CI/CD Pipelines</text>
+      <text x="73" y="84" text-anchor="middle" class="trophy-sub">Jenkins • Actions</text>
     </g>
 
-    <!-- Trophy 5: Databases & Cloud -->
+    <!-- Trophy 5: Monitoring & Logging -->
     <g transform="translate(632, 0)">
       <rect x="0" y="0" width="146" height="100" class="trophy-card"/>
       <circle cx="73" cy="32" r="18" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
-      <text x="73" y="38" text-anchor="middle" font-size="18">💾</text>
-      <text x="73" y="68" text-anchor="middle" class="trophy-title">Cloud &amp; Database</text>
-      <text x="73" y="84" text-anchor="middle" class="trophy-sub">Postgres • Docker • AWS</text>
+      <text x="73" y="38" text-anchor="middle" font-size="18">📈</text>
+      <text x="73" y="68" text-anchor="middle" class="trophy-title">Observability</text>
+      <text x="73" y="84" text-anchor="middle" class="trophy-sub">Prometheus • Grafana</text>
     </g>
 
-    <!-- Trophy 6: Commit Activity -->
+    <!-- Trophy 6: Quality & Protocols -->
     <g transform="translate(790, 0)">
       <rect x="0" y="0" width="146" height="100" class="trophy-card"/>
       <circle cx="73" cy="32" r="18" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
-      <text x="73" y="38" text-anchor="middle" font-size="18">🏆</text>
-      <text x="73" y="68" text-anchor="middle" class="trophy-title">Active Contributor</text>
-      <text x="73" y="84" text-anchor="middle" class="trophy-sub">200+ Contributions</text>
+      <text x="73" y="38" text-anchor="middle" font-size="18">🛡️</text>
+      <text x="73" y="68" text-anchor="middle" class="trophy-title">QA &amp; Protocols</text>
+      <text x="73" y="84" text-anchor="middle" class="trophy-sub">ISTQB • ISO 26262</text>
     </g>
   </g>
 </svg>
